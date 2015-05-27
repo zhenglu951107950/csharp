@@ -17,23 +17,23 @@
 
 	try
 	{
-  		// statements causing exception
+  		// 产生异常的语句
 	}
 	catch( ExceptionName e1 )
 	{
-   		// error handling code
+   		// 异常处理语句
 	}
 	catch( ExceptionName e2 )
 	{
-   		// error handling code
+   		// 异常处理语句
 	}
 	catch( ExceptionName eN )
 	{
-   		// error handling code
+   		// 异常处理语句
 	}
 	finally
 	{
-   		// statements to be executed
+   		// 需要被执行的语句
 	}
 ```
 
